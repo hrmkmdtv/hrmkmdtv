@@ -2,8 +2,8 @@
 - 👀 I’m interested in Eco/Solar/Earthen Punk, Web3, LLMS, ComfyUI
 - 🌱 I’m currently learning AI assisted Coding
 - 💞️ I’m looking to collaborate on Creative Tool Apps
-- 📫 How to reach me Hrmkmd@gmail.com
-- ⚡ Fun fact: Minimalist Nomad
+- 📫 How to reach me Hrmkmdlton@gmail.com
+- ⚡ Fun fact: Tropical Minimalist Digital Nomad
 
 <!---
 hrmkmdtv/hrmkmdtv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
