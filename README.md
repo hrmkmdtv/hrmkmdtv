@@ -1,6 +1,6 @@
 <div align="center">
 
-# Royal greetings, I'm HRMKMDTV
+# Royal greetings, I'm Hrmkndtv
 
 **Founder of ARCNTR**
 *Creative Technologist • Software Engineer • Worldbuilder*
