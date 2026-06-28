@@ -1,141 +1,119 @@
 <div align="center">
 
-# HRMKMDTV
+# Hi, I'm HRMKMDTV
 
-### Founder of ARCNTR
+**Founder of ARCNTR**
+*Creative Technologist • Software Engineer • Worldbuilder*
 
-Software Engineer • Creative Technologist • Worldbuilder
-
-*Building software that bridges ancestral knowledge with modern technology.*
-
----
-
-</div>
-
-# About Me
-
-I'm a software developer and creative technologist building products at the intersection of technology, design, storytelling, and education.
-
-My work focuses on creating software and digital systems that help individuals and organizations produce, organize, and preserve creative knowledge. I enjoy combining traditional ideas with modern engineering to build tools that are practical, scalable, and meaningful.
-
-Current areas of interest include:
-
-- Full-Stack Web Development
-- Artificial Intelligence
-- Creative Software
-- Design Systems
-- Worldbuilding
-- Knowledge Management
-- Digital Publishing
-- User Experience
-- Automation
-- Software Architecture
+Building technology that strengthens ancestral knowledge, creative communities, and future generations.
 
 ---
 
-# ARCNTR
+## About Me
 
-ARCNTR is an ancestral-centered creative technology studio exploring how software can support creativity, education, and cultural preservation.
+I'm a software engineer and creative technologist focused on building technology that serves people before platforms.
 
-Its long-term mission is to build tools that empower creators to research, design, publish, and tell stories through modern digital experiences.
+My work combines software engineering, artificial intelligence, design, storytelling, publishing, and worldbuilding to create tools that help communities preserve knowledge, strengthen culture, and build resilient futures.
 
----
+I'm particularly interested in digital infrastructure that supports nonprofits, educational initiatives, creative industries, and community development throughout BRICS nations and the Global South—from cities to rural communities.
 
-# What I'm Building
-
-- Creative production software
-- AI-powered creative workflows
-- Worldbuilding platforms
-- Knowledge management systems
-- Digital publishing tools
-- Internal developer tools
-- Design systems
-- Creative education platforms
+Rather than viewing software as an end product, I see it as infrastructure for education, cultural preservation, creative expression, and long-term community resilience.
 
 ---
 
-# Tech Stack
+## WSNTR Network
 
-## Languages
+**ARCNTR** is the flagship organization of **WSNTR Network**—a growing collection of ancestral-centered brands working across technology, education, media, design, research, and creative industries.
 
-- JavaScript
-- TypeScript
-- Python
-- HTML
-- CSS
-- SQL
-
-## Frontend
-
-- React
-- Next.js
-- Tailwind CSS
-
-## Backend
-
-- Node.js
-- Express
-- REST APIs
-
-## Databases
-
-- PostgreSQL
-- SQLite
-- Supabase
-
-## Design
-
-- Figma
-- Adobe Photoshop
-- Adobe Illustrator
-
-## AI & Automation
-
-- OpenAI APIs
-- Prompt Engineering
-- AI-assisted Development
-- Workflow Automation
-- Retrieval-Augmented Generation (RAG)
+Our mission is to build software, organizations, educational initiatives, and creative ecosystems that help communities preserve heritage, develop local capacity, encourage innovation, and create sustainable futures.
 
 ---
 
-# Development Philosophy
+## Featured Project
 
-I believe software should do more than solve technical problems.
+### Nommo AI
 
-The best technology helps people think more clearly, create more effectively, and preserve knowledge for future generations.
+A private ancestral-based Generative AI research and development lab.
 
-Every project I build aims to combine thoughtful design with practical engineering.
-
----
-
-# Current Goals
-
-- Build production-ready software
-- Publish open-source projects
-- Create reusable design systems
-- Explore AI-assisted development
-- Develop scalable creative tools
-- Continue learning computer science fundamentals
-- Document everything I build
+Nommo AI explores how AI can strengthen cultural knowledge, education, creativity, language preservation, publishing, and community infrastructure through human-centered intelligent systems.
 
 ---
 
-# Currently Exploring
+## Current Focus
 
-- Software Architecture
-- Systems Design
-- Artificial Intelligence
-- Human-Computer Interaction
-- Knowledge Engineering
-- Creative Coding
-- Information Design
+* Community Technology
+* Artificial Intelligence
+* Full-Stack Development
+* Creative Software
+* Knowledge Systems
+* Cultural Infrastructure
+* Digital Publishing
+* Worldbuilding
+* Design Systems
+* Education Technology
+* Automation
+* Open Source
 
 ---
 
-# Connect
+## Tech Stack
 
-I'm always interested in collaborating with developers, designers, educators, researchers, and creators building meaningful technology.
+**Languages**
+
+JavaScript • TypeScript • Python • HTML • CSS • SQL
+
+**Frontend**
+
+React • Next.js • Tailwind CSS
+
+**Backend**
+
+Node.js • Express • REST APIs
+
+**Databases**
+
+PostgreSQL • SQLite • Supabase
+
+**AI**
+
+OpenAI APIs • Prompt Engineering • RAG • Workflow Automation • Knowledge Engineering
+
+**Design**
+
+Figma • Adobe Photoshop • Adobe Illustrator
+
+---
+
+## Philosophy
+
+I believe technology should strengthen people, communities, and culture.
+
+The software I build is designed to preserve knowledge, support creativity, improve education, and help communities become more resilient and self-sustaining.
+
+My goal is to create technology that remains meaningful for future generations.
+
+---
+
+## Currently Building
+
+* Community knowledge platforms
+* AI-powered creative systems
+* Cultural preservation tools
+* Digital publishing platforms
+* Creative production software
+* Knowledge management systems
+* Internal developer tools
+* Design systems
+* Open-source infrastructure
+
+---
+
+## Let's Connect
+
+I'm always interested in collaborating with developers, designers, educators, researchers, nonprofits, artists, and organizations building meaningful technology that serves people and communities.
+
+> *"Build technology that communities can inherit—not just software they can use."*
+technology.
 
 ---
 
