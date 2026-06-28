@@ -1,5 +1,3 @@
-<div align="center">
-
 # Royal greetings, I'm Hrmkndtv
 
 **Founder of ARCNTR**
@@ -116,9 +114,6 @@ I'm always interested in collaborating with developers, designers, educators, re
 technology.
 
 ---
-
-<div align="center">
-
 *"Build technology that people will still find meaningful decades from now."*
 
 </div>
